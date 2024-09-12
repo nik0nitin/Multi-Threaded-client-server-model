@@ -1,0 +1,22 @@
+2024-07-05 20:41:36,485 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-07-05 20:41:36,508 INFO o.a.j.JMeter: Loading user properties from: C:\Program Files\apache-jmeter-5.6.3\bin\user.properties
+2024-07-05 20:41:36,509 INFO o.a.j.JMeter: Loading system properties from: C:\Program Files\apache-jmeter-5.6.3\bin\system.properties
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: Version 5.6.3
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: java.version=21.0.2
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: os.name=Windows 10
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: os.arch=amd64
+2024-07-05 20:41:36,517 INFO o.a.j.JMeter: os.version=10.0
+2024-07-05 20:41:36,518 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-07-05 20:41:36,518 INFO o.a.j.JMeter: java.awt.headless=null
+2024-07-05 20:41:36,518 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-07-05 20:41:36,518 INFO o.a.j.JMeter: Available Processors =8
+2024-07-05 20:41:36,528 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-07-05 20:41:36,529 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-07-05 20:41:36,529 INFO o.a.j.JMeter: JMeterHome=C:\Program Files\apache-jmeter-5.6.3
+2024-07-05 20:41:36,529 INFO o.a.j.JMeter: user.dir  =C:\Users\jaswa\OneDrive\Desktop\Programming\Java\WebServer\src\MultiThreaded
+2024-07-05 20:41:36,530 INFO o.a.j.JMeter: PWD       =C:\Users\jaswa\OneDrive\Desktop\Programming\Java\WebServer\src\MultiThreaded
+2024-07-05 20:41:36,531 INFO o.a.j.JMeter: IP: 192.168.1.13 Name: LAPTOP-C9NIILM7 FullName: host.docker.internal
+2024-07-05 20:41:36,546 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-07-05 20:41:36,747 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
